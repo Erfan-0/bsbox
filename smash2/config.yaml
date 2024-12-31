@@ -1,0 +1,215 @@
+# To configure your server, create a config.yaml file in the same directory
+# as the ballisticakit_server script. The config_template.yaml file can be
+# copied or renamed as a convenient starting point.
+
+# Uncomment any of these values to override defaults.
+
+# Name of our server in the public parties list.
+party_name: 📦BSBOX | FFA SMASH SLOW
+
+# Rainbow text displayed at the bottom of the screen. Main purpose was for
+# showing donation info.
+support_text: "Powered by OVERCLOCKED: https://gamejolt.com/games/overclocked/867312"
+
+# Single color texts displayed on top of eachother at the bottom of the
+# screen. Main purpose was for promoting the servers' socials.
+social_texts:
+- ["                                    Telegram: @Bsbox_ir | Website: bsbox.ir", [1,1,0]]
+
+
+
+# If true, your party will show up in the global public party list
+# Otherwise it will still be joinable via LAN or connecting by IP address.
+party_is_public: true
+
+# If true, all connecting clients will be authenticated through the master
+# server to screen for fake account info. Generally this should always
+# be enabled unless you are hosting on a LAN with no internet connection.
+#authenticate_clients: true
+
+# If true and your party is public, your party will be recognised by
+# overclocked clients, allowing players to find your party in the
+# overclocked server browser, this also hints clients that they can use the
+# overclocked admin panel in your party.
+overclocked_recognition: false
+
+# If true, Some assets will be replaced and some features will be disabled
+# in order to allow vanilla BombSquad players to join your party.
+vanillaclocked: true
+
+# IDs of server admins. Server admins are not kickable through the default
+# kick vote system and they are able to kick players without a vote. To get
+# your account id, enter 'getaccountid' in settings->advanced->enter-code.
+admins:
+- pb-IF5XU28TIQ==
+- pb-IF4lVGERFw==
+
+# Whether the default kick-voting system is enabled.
+enable_default_kick_voting: false
+
+# UDP port to host on. Change this to work around firewalls or run multiple
+# servers on one machine.
+# 43210 is the default and the only port that will show up in the LAN
+# browser tab.
+port: 43182
+
+# Max devices in the party. Note that this does *NOT* mean max players.
+# Any device in the party can have more than one player on it if they have
+# multiple controllers. Also, this number currently includes the server so
+# generally make it 1 bigger than you need. Max-players is not currently
+# exposed but I'll try to add that soon.
+max_party_size: 9
+
+# Options here are 'ffa' (free-for-all), 'teams' and 'coop' (cooperative)
+# This value is ignored if you supply a playlist_code (see below).
+session_type: SMASH
+
+# Playlist-code for teams or free-for-all mode sessions.
+# To host your own custom playlists, use the 'share' functionality in the
+# playlist editor in the regular version of the game.
+# This will give you a numeric code you can enter here to host that
+# playlist.
+playlist_code: 490322
+#playlist_code: 477776
+
+
+# Alternately, you can embed playlist data here instead of using codes.
+# Make sure to set session_type to the correct type for the data here.
+#playlist_inline: []
+
+# Whether to shuffle the playlist or play its games in designated order.
+#playlist_shuffle: true
+
+# If true, keeps team sizes equal by disallowing joining the largest team
+# (teams mode only).
+#auto_balance_teams: true
+
+# The campaign used when in co-op session mode.
+# Do print(ba.app.campaigns) to see available campaign names.
+#coop_campaign: Easy
+
+# The level name within the campaign used in co-op session mode.
+# For campaign name FOO, do print(ba.app.campaigns['FOO'].levels) to see
+# available level names.
+#coop_level: Onslaught Training
+
+# Whether to enable telnet access.
+# IMPORTANT: This option is no longer available, as it was being used
+# for exploits. Live access to the running server is still possible through
+# the mgr.cmd() function in the server script. Run your server through
+# tools such as 'screen' or 'tmux' and you can reconnect to it remotely
+# over a secure ssh connection.
+#enable_telnet: false
+
+# Series length in teams mode (7 == 'best-of-7' series; a team must
+# get 4 wins)
+#teams_series_length: 7
+
+# Points to win in free-for-all mode (Points are awarded per game based on
+# performance)
+#ffa_series_length: 24
+
+# If you have a custom stats webpage for your server, you can use this
+# to provide a convenient in-game link to it in the server-browser
+# alongside the server name.
+# if ${ACCOUNT} is present in the string, it will be replaced by the
+# currently-signed-in account's id. To fetch info about an account,
+# your back-end server can use the following url:
+# https://legacy.ballistica.net/accountquery?id=ACCOUNT_ID_HERE
+stats_url: https://bsbox.ir/
+
+# If present, the server subprocess will attempt to gracefully exit after
+# this amount of time. A graceful exit can occur at the end of a series
+# or other opportune time. Server-managers set to auto-restart (the
+# default) will then spin up a fresh subprocess. This mechanism can be
+# useful to clear out any memory leaks or other accumulated bad state
+# in the server subprocess.
+clean_exit_minutes: 220
+
+# If present, the server subprocess will shut down immediately after this
+# amount of time. This can be useful as a fallback for clean_exit_time.
+# The server manager will then spin up a fresh server subprocess if
+# auto-restart is enabled (the default).
+unclean_exit_minutes: 240
+
+# If present, the server subprocess will shut down immediately if this
+# amount of time passes with no activity from any players. The server
+# manager will then spin up a fresh server subprocess if auto-restart is
+# enabled (the default).
+#idle_exit_minutes: 40
+
+# Should the tutorial be shown at the beginning of games?
+#show_tutorial: false
+
+# Team names (teams mode only).
+#team_names:
+#- Blue
+#- Red
+
+# Team colors (teams mode only).
+#team_colors:
+#- [0.1, 0.25, 1.0]
+#- [1.0, 0.25, 0.2]
+
+# Whether to enable the queue where players can line up before entering
+# your server. Disabling this can be used as a workaround to deal with
+# queue spamming attacks.
+#enable_queue: true
+
+# Protocol version we host with. Currently the default is 33 which
+# still allows older 1.4 game clients to connect. Explicitly setting
+# to 35 no longer allows those clients but adds/fixes a few things
+# such as making camera shake properly work in net games.
+#protocol_version: 35
+
+# Name of the "super" directory for this server. The super directory
+# is where this server should dump its non-global data.
+super_dir: SMASH
+
+# Whether players in this server have access to chaotic features or
+# not (eg. /wheel).
+#allow_chaotic_commands: true
+
+# Any value set in here overrides the same value in the game's config file.
+# Mainly used for changing overclocked settings. Changed values will NOT go
+# back to the default value after being commented/removed and need to be
+# explicitly set in order to change.
+config_override:
+  Modifier Count: 0
+
+
+
+# Any value set in here overrides the same value in the game's config file.
+# Mainly used for changing overclocked settings. Changed values will NOT go
+# back to the default value after being commented/removed and need to be
+# explicitly set in order to change.
+config_override:
+  At-The-End-of-Space Theme: false
+  At-The-End-of-Time Theme: false
+  Autumn Theme: false
+  Cruel-Night Theme: false
+  Minty-Toxicity Theme: false
+  Under-The-Sakura Theme: false
+  Allow Overcharged Modifiers: false
+  Modifier Count: 0
+  Chaos Modifier: true
+  Gamble Modifier: true
+  Impenetrable Modifier: true
+  Low-Gravity Modifier: true
+  Mini-Bombs Modifier: true
+  Mini-Punch Modifier: true
+  No-Powerups Modifier: true
+  Omni-Punch Modifier: true
+  Spaz-Rain Modifier: true
+  Super-Bombs Modifier: true
+  Third-Party Modifier: true
+  Unbalanced Modifier: true
+  Untested Modifier: true
+  Vulnerable Modifier: true
+  Disable Powerup Pop-ups: true
+
+# How many seconds individual players from a given account must wait
+# before rejoining the game. This can help suppress exploits
+# involving leaving and rejoining or switching teams rapidly.
+player_rejoin_cooldown: 10
+

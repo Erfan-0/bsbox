@@ -1,0 +1,2595 @@
+{
+ "Achievements": {
+  "Boom Goes the Dynamite": {
+   "Complete": false
+  },
+  "Boxer": {
+   "Complete": false
+  },
+  "Dual Wielding": {
+   "Complete": false
+  },
+  "Flawless Victory": {
+   "Complete": false
+  },
+  "Free Loader": {
+   "Complete": true
+  },
+  "Gold Miner": {
+   "Complete": false
+  },
+  "Got the Moves": {
+   "Complete": false
+  },
+  "In Control": {
+   "Complete": false
+  },
+  "Last Stand God": {
+   "Complete": true
+  },
+  "Last Stand Master": {
+   "Complete": true
+  },
+  "Last Stand Wizard": {
+   "Complete": true
+  },
+  "Mine Games": {
+   "Complete": false
+  },
+  "Off You Go Then": {
+   "Complete": true
+  },
+  "Onslaught God": {
+   "Complete": false
+  },
+  "Onslaught Master": {
+   "Complete": false
+  },
+  "Onslaught Training Victory": {
+   "Complete": false
+  },
+  "Onslaught Wizard": {
+   "Complete": false
+  },
+  "Precision Bombing": {
+   "Complete": false
+  },
+  "Pro Boxer": {
+   "Complete": false
+  },
+  "Pro Football Shutout": {
+   "Complete": false
+  },
+  "Pro Football Victory": {
+   "Complete": false
+  },
+  "Pro Onslaught Victory": {
+   "Complete": false
+  },
+  "Pro Runaround Victory": {
+   "Complete": false
+  },
+  "Rookie Football Shutout": {
+   "Complete": false
+  },
+  "Rookie Football Victory": {
+   "Complete": false
+  },
+  "Rookie Onslaught Victory": {
+   "Complete": false
+  },
+  "Runaround God": {
+   "Complete": false
+  },
+  "Runaround Master": {
+   "Complete": false
+  },
+  "Runaround Wizard": {
+   "Complete": false
+  },
+  "Sharing is Caring": {
+   "Complete": false
+  },
+  "Stayin' Alive": {
+   "Complete": false
+  },
+  "Super Mega Punch": {
+   "Complete": false
+  },
+  "Super Punch": {
+   "Complete": false
+  },
+  "TNT Terror": {
+   "Complete": false
+  },
+  "Team Player": {
+   "Complete": true
+  },
+  "The Great Wall": {
+   "Complete": false
+  },
+  "The Wall": {
+   "Complete": false
+  },
+  "Uber Football Shutout": {
+   "Complete": false
+  },
+  "Uber Football Victory": {
+   "Complete": false
+  },
+  "Uber Onslaught Victory": {
+   "Complete": false
+  },
+  "Uber Runaround Victory": {
+   "Complete": false
+  }
+ },
+ "Allow Overcharged Modifiers": false,
+ "At-The-End-of-Space Theme": false,
+ "At-The-End-of-Time Theme": false,
+ "Auto Account State": "Server",
+ "Auto Balance Teams": true,
+ "Autumn Theme": false,
+ "Campaigns": {
+  "Default": {
+   "Onslaught Training": {
+    "Complete": false,
+    "High Scores": {
+     "1 Player": [
+      [
+       160,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\ue063Online"
+         }
+        ]
+       }
+      ],
+      [
+       51,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\ue063Online"
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    "Rating": 6.3
+   },
+   "The Last Stand": {
+    "Complete": false,
+    "High Scores": {
+     "0 Player": [
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ],
+      [
+       0,
+       {
+        "players": []
+       }
+      ]
+     ],
+     "1 Player": [
+      [
+       36200,
+       {
+        "players": [
+         {
+          "character": "Bones",
+          "name": "\ue063Rezakiing"
+         }
+        ]
+       }
+      ],
+      [
+       35725,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "Mad Dog"
+         }
+        ]
+       }
+      ],
+      [
+       29000,
+       {
+        "players": [
+         {
+          "character": "Agent Johnson",
+          "name": "\u06af\u0627\u062f\u0648\u06af\u0631"
+         }
+        ]
+       }
+      ],
+      [
+       25595,
+       {
+        "players": [
+         {
+          "character": "Kronk",
+          "name": "\ue047wm!R\ud83d\udc19"
+         }
+        ]
+       }
+      ],
+      [
+       23125,
+       {
+        "players": [
+         {
+          "character": "Bones",
+          "name": "\ue063Rezakiing"
+         }
+        ]
+       }
+      ],
+      [
+       22170,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\"Death"
+         }
+        ]
+       }
+      ],
+      [
+       15805,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\"Death"
+         }
+        ]
+       }
+      ],
+      [
+       15555,
+       {
+        "players": [
+         {
+          "character": "Bones",
+          "name": "\ue063Rezakiing"
+         }
+        ]
+       }
+      ],
+      [
+       11265,
+       {
+        "players": [
+         {
+          "character": "Snake Shadow",
+          "name": "\ue030Android64983671"
+         }
+        ]
+       }
+      ],
+      [
+       11100,
+       {
+        "players": [
+         {
+          "character": "Kronk",
+          "name": "\ud83d\udce6F\u0361\u035cL\u0338AM\u0338E\u0338S"
+         }
+        ]
+       }
+      ]
+     ],
+     "2 Player": [
+      [
+       55460,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue047qliflash"
+         },
+         {
+          "character": "Mel",
+          "name": "\ue063godzila301"
+         }
+        ]
+       }
+      ],
+      [
+       30800,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue063SageAffect"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ud83c\udfad\u0645\u0627\u062a\u06cc \u0633\u0627\u06cc\u0647\ud83c\udfad"
+         }
+        ]
+       }
+      ],
+      [
+       27055,
+       {
+        "players": [
+         {
+          "character": "Snake Shadow",
+          "name": "r"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue063shahradgam"
+         }
+        ]
+       }
+      ],
+      [
+       23470,
+       {
+        "players": [
+         {
+          "character": "Mel",
+          "name": "\ue01e\u067e\u06cc\u0631\u0645\u0631\u062f"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue047qliflash"
+         }
+        ]
+       }
+      ],
+      [
+       17625,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue030Android67893320"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ud83c\uddf8  \ud83c\uddf0  \ud83c\uddfe"
+         }
+        ]
+       }
+      ],
+      [
+       15840,
+       {
+        "players": [
+         {
+          "character": "Agent Johnson",
+          "name": "\"\ud83e\udd77\u20ddAli\ud83e\udd77\u20dd"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\ud83c\udfad\u0645\u0627\u062a\u06cc\u0627\u0631 \u062c\u0648\u0646\ud83c\udfad"
+         }
+        ]
+       }
+      ],
+      [
+       15510,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "HAPM"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063NoName10502954"
+         }
+        ]
+       }
+      ],
+      [
+       13985,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue01e\u5350 Hosein \u5350"
+         },
+         {
+          "character": "Mel",
+          "name": "\ue05d\u32e1 Reza\u200c \u32e1"
+         }
+        ]
+       }
+      ],
+      [
+       12080,
+       {
+        "players": [
+         {
+          "character": "Agent Johnson",
+          "name": "\ue044bekir"
+         },
+         {
+          "character": "Kronk",
+          "name": "\ue063superamir"
+         }
+        ]
+       }
+      ],
+      [
+       11620,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue063ENEMYMAMAD"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063NoNameA12070891"
+         }
+        ]
+       }
+      ]
+     ],
+     "3 Player": [
+      [
+       49110,
+       {
+        "players": [
+         {
+          "character": "Mel",
+          "name": "\ue01e\u067e\u06cc\u0631\u0645\u0631\u062f"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue030Android64983671"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue047qliflash"
+         }
+        ]
+       }
+      ],
+      [
+       45110,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\"Death"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\u067e\u06cc\u0631\u0645\u0631\u062f"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063Taheri1391"
+         }
+        ]
+       }
+      ],
+      [
+       27225,
+       {
+        "players": [
+         {
+          "character": "Snake Shadow",
+          "name": "Boomer"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue063RuinedTaur"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063Taheri1391"
+         }
+        ]
+       }
+      ],
+      [
+       26275,
+       {
+        "players": [
+         {
+          "character": "Jack Morgan",
+          "name": "\u0416\u0415\u041d\u042f WARS FIGHT"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\u06af\u0627\u062f\u0648\u06af\u0631"
+         },
+         {
+          "character": "Kronk",
+          "name": "\ue063Puzzlin551"
+         }
+        ]
+       }
+      ],
+      [
+       25480,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\"Death"
+         },
+         {
+          "character": "Spaz",
+          "name": "Boomer"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\u067e\u06cc\u0631\u0645\u0631\u062f"
+         }
+        ]
+       }
+      ],
+      [
+       23145,
+       {
+        "players": [
+         {
+          "character": "Agent Johnson",
+          "name": "\u06af\u0627\u062f\u0648\u06af\u0631"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue030Android67779785"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\ue044\ud83d\udc09\ud83d\udc32"
+         }
+        ]
+       }
+      ],
+      [
+       22655,
+       {
+        "players": [
+         {
+          "character": "Pascal",
+          "name": "\u0432\u2113\u03c3c\u043a\u0443"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue042\ud811\udcd9\u0110\u00aa\u0157\u0138 \u015ep\u012f\u014b\ud80c\udd83"
+         },
+         {
+          "character": "B-9000",
+          "name": "\ue048SoheilDark"
+         }
+        ]
+       }
+      ],
+      [
+       21840,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "Elmer"
+         },
+         {
+          "character": "Mel",
+          "name": "\u067e\u06cc\u0631\u0645\u0631\u062f"
+         },
+         {
+          "character": "Grumbledorf",
+          "name": "\u06af\u0627\u062f\u0648\u06af\u0631"
+         }
+        ]
+       }
+      ],
+      [
+       21565,
+       {
+        "players": [
+         {
+          "character": "Jack Morgan",
+          "name": "Joaqu\u00edn"
+         },
+         {
+          "character": "Jack Morgan",
+          "name": "\ue063Diagona534"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ud835\udd8f\ud835\udd8a\ud835\udd87\ud835\udd97\ud835\udd86\ud835\udd8a\ud835\udd8e\ud835\udd91"
+         }
+        ]
+       }
+      ],
+      [
+       19445,
+       {
+        "players": [
+         {
+          "character": "Snake Shadow",
+          "name": "\"GDC|\u0411\u0410\u0411\u0418\u0414\u0416\u041e\u041d"
+         },
+         {
+          "character": "Bones",
+          "name": "\"GDC|\u041f\u0418\u0414\u0416\u041e\u041d"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue01e\u0647\u0627\u06cc \u0647\u06cc\u062a\u0644\u0631"
+         }
+        ]
+       }
+      ]
+     ],
+     "4 Player": [
+      [
+       55030,
+       {
+        "players": [
+         {
+          "character": "B-9000",
+          "name": "\"Death"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue01eblox fruit v6\ud83d\ude08\ud83d\ude08\ud83d\ude08"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue030Android67737567"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue063Infrared15"
+         }
+        ]
+       }
+      ],
+      [
+       37140,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "#JEBRAEIL#\ud83d\uddff\ud83d\udeac"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue063Infrared15"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063PointedCoa"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ud83c\udfad\u0645\u0627\u062a\u06cc \u0633\u0627\u06cc\u0647\ud83c\udfad"
+         }
+        ]
+       }
+      ],
+      [
+       35570,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "DarkBoy"
+         },
+         {
+          "character": "Spaz",
+          "name": "\u00c6r\u00df\u0125\u00aam"
+         },
+         {
+          "character": "Grumbledorf",
+          "name": "\u06af\u0627\u062f\u0648\u06af\u0631"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\ue044bekir"
+         }
+        ]
+       }
+      ],
+      [
+       30555,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "<<kingNinja>> \ud83d\udd30"
+         },
+         {
+          "character": "Pascal",
+          "name": "\u0432\u2113\u03c3c\u043a\u0443"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063DARKBOYY"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ud835\udc04\ud835\udc2b\ud835\udc1f\ud835\udc1a\ud835\udc27"
+         }
+        ]
+       }
+      ],
+      [
+       28950,
+       {
+        "players": [
+         {
+          "character": "Mel",
+          "name": "\u067e\u06cc\u0631\u0645\u0631\u062f"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue030Android64318613"
+         },
+         {
+          "character": "Bones",
+          "name": "\ue063SoulShadow"
+         },
+         {
+          "character": "Kronk",
+          "name": "\ud83c\uddee\ud83c\uddf7SOKONA\ud83c\uddf5\ud83c\uddf8"
+         }
+        ]
+       }
+      ],
+      [
+       28605,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "\ue020XDevilX9221"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue047qliflash"
+         },
+         {
+          "character": "Mel",
+          "name": "\ue05d\u32e1 Reza\u200c \u32e1"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063LazyExpan2"
+         }
+        ]
+       }
+      ],
+      [
+       27665,
+       {
+        "players": [
+         {
+          "character": "Kronk",
+          "name": "Nightmare huggy"
+         },
+         {
+          "character": "B-9000",
+          "name": "\ue01erespect"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue030Android65545686"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\ue063DankConten"
+         }
+        ]
+       }
+      ],
+      [
+       27625,
+       {
+        "players": [
+         {
+          "character": "Snake Shadow",
+          "name": "\ue048\ud835\udfdc\ud835\udfd8\ud835\udfdd"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063BulkyGoose"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063Kaluvan311"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ud83c\udfad\u0645\u0627\u062a\u06cc \u0633\u0627\u06cc\u0647\ud83c\udfad"
+         }
+        ]
+       }
+      ],
+      [
+       24835,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "#JEBRAEIL#\ud83d\uddff\ud83d\udeac"
+         },
+         {
+          "character": "Spaz",
+          "name": "\u0637\u0627\u0647\u0627"
+         },
+         {
+          "character": "Agent Johnson",
+          "name": "\ue044bekir"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063scorpionni"
+         }
+        ]
+       }
+      ],
+      [
+       24420,
+       {
+        "players": [
+         {
+          "character": "Spaz",
+          "name": "#JEBRAEIL#\ud83d\uddff\ud83d\udeac"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ue063Infrared15"
+         },
+         {
+          "character": "Spaz",
+          "name": "\ue063PointedCoa"
+         },
+         {
+          "character": "Snake Shadow",
+          "name": "\ud83c\udfad\u0645\u0627\u062a\u06cc \u0633\u0627\u06cc\u0647\ud83c\udfad"
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    "Rating": 10.0
+   }
+  }
+ },
+ "Chaos Modifier": true,
+ "Cruel-Night Theme": false,
+ "Default Player Profiles": {
+  "Client Input Device #1": "__account__",
+  "Client Input Device #2": "3606",
+  "Client Input Device #3": "bepir",
+  "Client Input Device #4": "__account__",
+  "Client Input Device #5": "\"\ud83c\udfadTERRORIST\ud83c\udfad\"",
+  "Client Input Device #6": "\u043c\u0435\u0433\u0430\u043f\u0438\u0434\u0440",
+  "Client Input Device #7": "\u25e1\u0308\u20dd\u3164\u00a0\u00a0\u200c",
+  "Client Input Device #8": "\u25e1\u0308\u20dd\u3164\u00a0\u00a0\u200c",
+  "Client Input Device #9": "\u0432\u2113\u03c3c\u043a\u0443"
+ },
+ "Disable Powerup Pop-ups": true,
+ "Fleet Zone Pings": {
+  "prod": {
+   "bahrain": 34.54383569583297,
+   "delhi": 207.39729702472687,
+   "dubai": 43.41502442583442,
+   "helsinki": 89.03284967690706,
+   "hyderabad": 194.5892870426178,
+   "kolkata": 231.03289678692818,
+   "mumbai": 218.38436275720596,
+   "stockholm": 92.22092479467392,
+   "tel_aviv": 157.28401206433773,
+   "warsaw": 96.71968221664429
+  }
+ },
+ "Free-for-All Playlist Randomize": true,
+ "Free-for-All Playlist Selection": "FFA_SLOW_0_BSBOX",
+ "Free-for-All Playlists": {
+  "FFA_SLOW_0_BSBOX": [
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "Step Right Up"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "Courtyard"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "Bridgit"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 120,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   }
+  ],
+  "My Free-for-All Playlist": [
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Happy Thoughts"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Step Right Up"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Courtyard"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Bridgit"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": true,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 10,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   }
+  ],
+  "My Free-for-All Playlist 2": [
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Epic Mode": false,
+     "Kills to Win Per Player": 5,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "ServerModePlaylist": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "bs9 Village Server Playlist": [
+   {
+    "settings": {
+     "map": "Crag Castle"
+    },
+    "type": "bastd.game.village.VillageGame"
+   }
+  ],
+  "\u0645\u0646 \u062a\u06a9 \u0628\u0647 \u062a\u06a9 \u0644\u06cc\u0633\u062a \u0628\u0627\u0632\u06cc 2": [
+   {
+    "settings": {
+     "Allow Negative Scores (Deathmatch Exclusive)": false,
+     "Epic Mode": false,
+     "Game mode": 1,
+     "Lives or Kills to Win Per Player": 5,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   }
+  ],
+  "\u0646\u0628\u0631\u062f \u0645\u0631\u06af\u0628\u0627\u0631 \u0641\u0642\u0637": [
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Kills to Win Per Player": 10,
+     "Respawn Times": 1.0,
+     "Time Limit": 300,
+     "map": "Doom Shroom"
+    },
+    "type": "bs_death_match.DeathMatchGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Kills to Win Per Player": 10,
+     "Respawn Times": 1.0,
+     "Time Limit": 300,
+     "map": "Crag Castle"
+    },
+    "type": "bs_death_match.DeathMatchGame"
+   }
+  ]
+ },
+ "Gamble Modifier": true,
+ "Idle Exit Minutes": null,
+ "Impenetrable Modifier": true,
+ "Local Account Name": "Server17976036",
+ "Low-Gravity Modifier": true,
+ "Mini-Bombs Modifier": true,
+ "Mini-Punch Modifier": true,
+ "Minty-Toxicity Theme": false,
+ "Modifier Count": 0,
+ "No-Powerups Modifier": true,
+ "Omni-Punch Modifier": true,
+ "Player Profiles": {
+  "__account__": {
+   "character": "Spaz",
+   "color": [
+    0.5,
+    0.25,
+    1.0
+   ],
+   "highlight": [
+    0.5,
+    0.25,
+    1.0
+   ]
+  }
+ },
+ "Plugins": {
+  "wintermode.by_vladdos": {
+   "enabled": true
+  }
+ },
+ "Port": 43182,
+ "Show Tutorial": false,
+ "Signed In Last Session": false,
+ "Spaz-Rain Modifier": true,
+ "Super-Bombs Modifier": true,
+ "Team Tournament Playlists": {
+  "BSBOX FOOTBALL": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 5,
+     "Time Limit": 190,
+     "map": "FOOTBALL_BSBOX"
+    },
+    "type": "FOOTBALL_BSBOX.HockeyGame"
+   }
+  ],
+  "My Teams Playlist": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My Teams Playlist 11": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My Teams Playlist 12": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My Teams Playlist 13": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My Teams Playlist 14": [
+   {
+    "settings": {
+     "Disable Bombs": true,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 10,
+     "Time Limit": 300,
+     "map": "Closed Arena"
+    },
+    "type": "VolleyBall.VolleyBallGame"
+   }
+  ],
+  "My Teams Playlist 15": [
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 5,
+     "Time Limit": 300,
+     "map": "Open Field"
+    },
+    "type": "VolleyBall.VolleyBallGame"
+   }
+  ],
+  "My Teams Playlist 4": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 1.0,
+     "Score to Win": 10,
+     "Time Limit": 180,
+     "map": "BSBOX STADIUM"
+    },
+    "type": "FOOTBAL_BSBOX.HockeyGame"
+   }
+  ],
+  "My Teams Playlist 5": [
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 15,
+     "Time Limit": 300,
+     "map": "Open Field"
+    },
+    "type": "bascenev1lib.game.volleyball.VolleyBallGame"
+   }
+  ],
+  "My Teams Playlist 6": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My Teams Playlist 7": [
+   {
+    "settings": {
+     "Disable Bombs": true,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": false,
+     "Respawn Times": 0.25,
+     "Score to Win": 5,
+     "Time Limit": 300,
+     "map": "Closed Arena"
+    },
+    "type": "VolleyBall.VolleyBallGame"
+   }
+  ],
+  "My football server": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.1,
+     "Score to Win": 1,
+     "Time Limit": 180,
+     "map": "BSBOX STADIUM"
+    },
+    "type": "FOOTBALL_BSBOX.HockeyGame"
+   }
+  ],
+  "My ufc svr": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 29,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "My ufc svr 1": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "ServerModePlaylist": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "TEAMS SVR 0 ": [
+   {
+    "settings": {
+     "Basic Bombs": true,
+     "Epic Mode": true,
+     "Grabbing only": true,
+     "Ice Bombs": true,
+     "Ice Trigger Bombs": true,
+     "Impulse Bombs": true,
+     "Punching only": true,
+     "Respawn Times": 0.25,
+     "Sticky Bombs": true,
+     "Time Limit": 120,
+     "Trigger Bombs": true,
+     "map": "Bridgit"
+    },
+    "type": "bascenev1lib.game.armsrace.ArmsRaceGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Extra Seconds for Assassination per Target Suicide/Betrayal": 1,
+     "Negative Points for Killing Others": 0,
+     "Points for Killing The Target": 1,
+     "Points for Surviving an Assassination": 3,
+     "Points to Win": 3,
+     "Respawn Times": 0.5,
+     "Seconds for Assassination": 20,
+     "Time Limit": 0,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.assassination.AssassinationGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "bascenev1lib.game.assault.AssaultGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Flag Idle Return Time": 30,
+     "Flag Touch Return Time": 0,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 1,
+     "Time Limit": 120,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.capturetheflag.CaptureTheFlagGame"
+   },
+   {
+    "settings": {
+     "Chosen One Gets Gloves": false,
+     "Chosen One Gets Shield": true,
+     "Chosen One Time": 20,
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Time Limit": 120,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.chosenone.ChosenOneGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.5,
+     "Time Limit": 120,
+     "map": "Zigzag"
+    },
+    "type": "bascenev1lib.game.conquest.ConquestGame"
+   },
+   {
+    "settings": {
+     "Chosen One Gets Gloves": false,
+     "Chosen One Gets Shield": true,
+     "Chosen One Time": 10,
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Time Limit": 120,
+     "map": "Rampage"
+    },
+    "type": "bascenev1lib.game.frozenone.FrozenOneGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 1,
+     "Time Limit": 120,
+     "map": "Hockey Stadium"
+    },
+    "type": "bascenev1lib.game.hockey.HockeyGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "map": "Lake Frigid"
+    },
+    "type": "bascenev1lib.game.icyemits.IcyEmitsGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Hold Time": 10,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Time Limit": 0,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.keepaway.KeepAwayGame"
+   },
+   {
+    "settings": {
+     "Enable Bottom Credit": false,
+     "Enable Punching": false,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Max Round Time": 15,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.musicalflags.MusicalFlagsGame"
+   },
+   {
+    "settings": {
+     "Allow Grabbing": true,
+     "Balance Total Lives (Elimination Exclusive)": false,
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Game mode": 1,
+     "Lives or Kills to Win Per Player": 5,
+     "Overtime": false,
+     "Player Health": 500,
+     "Random Chance of Saviors on Impact": true,
+     "Respawn Times": 0.25,
+     "Solo Mode (Elimination Exclusive)": false,
+     "Time Limit": 60,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.packapunch.PackAPunchGame"
+   },
+   {
+    "settings": {
+     "Enable Bomb": false,
+     "Enable Jump": true,
+     "Enable Pickup": false,
+     "Epic Mode": true,
+     "Fast Movespeed": true,
+     "Kills to Win Per Player": 5,
+     "Obstacle Count": 16,
+     "Obstacles": false,
+     "Obstacles Bounces Shots": false,
+     "Obstacles Shape": 3,
+     "Overtime": false,
+     "Random Obstacle Color": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 120,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.quake.QuakeGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Random bombs spawn": true,
+     "map": "Football Stadium"
+    },
+    "type": "bascenev1lib.game.runningbombs.RunningBombsGame"
+   },
+   {
+    "settings": {
+     "Allow Bombs": false,
+     "Allow Powerups": false,
+     "Epic Mode": false,
+     "Overtime": false,
+     "Respawn Times": 0.5,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Soccer Stadium"
+    },
+    "type": "bascenev1lib.game.soccer.SoccerGame"
+   }
+  ],
+  "UFC_0_BSBOX": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "VP Competitive&Fun Games [Mostly Fun]": [
+   {
+    "settings": {
+     "Choosing Flags Time": 6,
+     "Epic Mode(Useless if SMD Enabled)": false,
+     "Rainbow Flag": true,
+     "Slow Motion Deaths(SMD)": true,
+     "Time Limit": 480,
+     "Warning Count": 2,
+     "map": "Courtyard"
+    },
+    "type": "FlagDay.FlagDayGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "One By One Zones": false,
+     "Time Limit": 0,
+     "map": "Football Stadium"
+    },
+    "type": "DangerZone.FluffysGame2"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "One By One Zones": true,
+     "Time Limit": 0,
+     "map": "Football Stadium"
+    },
+    "type": "DangerZone.FluffysGame2"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.05,
+     "Score to Win": 3,
+     "Time Limit": 0,
+     "map": "Football Stadium"
+    },
+    "type": "EggOfDeath.EggOfDeathGame"
+   },
+   {
+    "settings": {
+     "Chances": 3,
+     "Flag Position Type": 1,
+     "Flashing Lights": false,
+     "Hints": 3,
+     "One Hint Each Round": false,
+     "Peaceful": true,
+     "Randomize Colors Each Round": true,
+     "Reset Chances Each Round": true,
+     "Reset Player Position": false,
+     "Round Time": 33,
+     "Speedy": true,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "memory_flags.FluffysGame"
+   },
+   {
+    "settings": {
+     "Chances": 3,
+     "Flag Position Type": 1,
+     "Flashing Lights": false,
+     "Hints": 3,
+     "One Hint Each Round": true,
+     "Peaceful": true,
+     "Randomize Colors Each Round": true,
+     "Reset Chances Each Round": true,
+     "Reset Player Position": false,
+     "Round Time": 33,
+     "Speedy": true,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "memory_flags.FluffysGame"
+   },
+   {
+    "settings": {
+     "Chances": 3,
+     "Flag Position Type": 1,
+     "Flashing Lights": false,
+     "Hints": 3,
+     "One Hint Each Round": true,
+     "Peaceful": true,
+     "Randomize Colors Each Round": true,
+     "Reset Chances Each Round": false,
+     "Reset Player Position": false,
+     "Round Time": 33,
+     "Speedy": true,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "memory_flags.FluffysGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 2,
+     "Time Limit": 0,
+     "map": "Bridgit"
+    },
+    "type": "bastd.game.assault.AssaultGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 2,
+     "Time Limit": 0,
+     "map": "Monkey Face"
+    },
+    "type": "bastd.game.assault.AssaultGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 2,
+     "Time Limit": 0,
+     "map": "\ue019Big H"
+    },
+    "type": "bastd.game.assault.AssaultGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Model Type": 1,
+     "Respawn Times": 0.25,
+     "TNT Hitpoints": 9999,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "Heist.TNTTeamGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Respawn Times": 0.05,
+     "Score to Win": 10,
+     "Time Limit": 60,
+     "map": "Football Stadium"
+    },
+    "type": "DarkFields.DFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": false,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Rainbow Flags": true,
+     "Round Time": 30,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": true,
+     "map": "Courtyard",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": false,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Rainbow Flags": true,
+     "Round Time": 34,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": true,
+     "map": "Doom Shroom",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": true,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Rainbow Flags": true,
+     "Round Time": 54,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": true,
+     "map": "Football Stadium",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": true,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Rainbow Flags": true,
+     "Round Time": 38,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": true,
+     "map": "The Pad",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": true,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Rainbow Flags": true,
+     "Round Time": 30,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": true,
+     "map": "\ue043Bottom Rampage",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Chat Debugging(DON'T)": false,
+     "Enable Bombing": true,
+     "Enable Punching": true,
+     "Enable Running": true,
+     "Epic Mode": false,
+     "Rainbow Flags": true,
+     "Round Time": 34,
+     "Time Limit": 0,
+     "Timer Is Logical(For Epic Mode)": false,
+     "map": "Forest",
+     "\ue02eCredit :)\ue02e": true
+    },
+    "type": "musical_flags.MFGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 4,
+     "Respawn Times": 0.25,
+     "Speedy": true,
+     "Time Limit": 0,
+     "map": "\ue019The Arena"
+    },
+    "type": "yeeting_party.BoxingGame"
+   },
+   {
+    "settings": {
+     "Balance Total Lives": false,
+     "Epic Mode": true,
+     "Lives Per Player": 1,
+     "Respawn Times": 0.25,
+     "Solo Mode": false,
+     "Time Limit": 60,
+     "map": "Wooden Floor"
+    },
+    "type": "demolition_war.DemolitionWar"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Time Limit": 180,
+     "map": "Wooden Floor"
+    },
+    "type": "BlockDash.BlockDashGame"
+   },
+   {
+    "settings": {
+     "Cooldown": 90,
+     "Epic Mode": false,
+     "map": "Doom Shroom"
+    },
+    "type": "dodge_the_ball.DodgeTheBall"
+   },
+   {
+    "settings": {
+     "Cooldown": 90,
+     "Epic Mode": false,
+     "map": "Super TNT"
+    },
+    "type": "dodge_the_ball.DodgeTheBall"
+   },
+   {
+    "settings": {
+     "Balance Total Life's (on spawn only)": true,
+     "Enable Gloves": true,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Icy Floor": false,
+     "Life's Per Player": 2,
+     "Live Team Balance (by Nippy#2677)": true,
+     "Night Mode": false,
+     "One Punch Kill": false,
+     "Punching Only": false,
+     "Respawn Times": 0.05,
+     "Solo Mode": false,
+     "Spawn with Shield": false,
+     "Time Limit": 0,
+     "map": "Football Stadium"
+    },
+    "type": "BetterElimination.BetterEliminationGame"
+   },
+   {
+    "settings": {
+     "Balance Total Life's (on spawn only)": true,
+     "Enable Gloves": true,
+     "Enable Powerups": false,
+     "Epic Mode": true,
+     "Icy Floor": false,
+     "Life's Per Player": 2,
+     "Live Team Balance (by Nippy#2677)": true,
+     "Night Mode": false,
+     "One Punch Kill": false,
+     "Punching Only": false,
+     "Respawn Times": 0.05,
+     "Solo Mode": false,
+     "Spawn with Shield": false,
+     "Time Limit": 0,
+     "map": "Monkey Face"
+    },
+    "type": "BetterElimination.BetterEliminationGame"
+   },
+   {
+    "settings": {
+     "Balance Total Life's (on spawn only)": true,
+     "Enable Gloves": true,
+     "Enable Powerups": false,
+     "Epic Mode": true,
+     "Icy Floor": false,
+     "Life's Per Player": 2,
+     "Live Team Balance (by Nippy#2677)": true,
+     "Night Mode": false,
+     "One Punch Kill": false,
+     "Punching Only": false,
+     "Respawn Times": 0.05,
+     "Solo Mode": false,
+     "Spawn with Shield": false,
+     "Time Limit": 0,
+     "map": "Bombmod1_1"
+    },
+    "type": "BetterElimination.BetterEliminationGame"
+   },
+   {
+    "settings": {
+     "Balance Total Life's (on spawn only)": true,
+     "Enable Gloves": true,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Life's Per Player": 1,
+     "Live Team Balance (by Nippy#2677)": true,
+     "Night Mode": false,
+     "One Punch Kill": false,
+     "Punching Only": false,
+     "Respawn Times": 0.05,
+     "Solo Mode": true,
+     "Spawn with Shield": false,
+     "Time Limit": 0,
+     "map": "\ue019The Arena"
+    },
+    "type": "BetterElimination.BetterEliminationGame"
+   },
+   {
+    "settings": {
+     "Balance Total Life's (on spawn only)": true,
+     "Enable Gloves": true,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Life's Per Player": 1,
+     "Live Team Balance (by Nippy#2677)": true,
+     "Night Mode": false,
+     "One Punch Kill": false,
+     "Punching Only": false,
+     "Respawn Times": 0.05,
+     "Solo Mode": true,
+     "Spawn with Shield": false,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "BetterElimination.BetterEliminationGame"
+   },
+   {
+    "settings": {
+     "Balance Total Lives": true,
+     "Epic Mode": true,
+     "Lives Per Player": 2,
+     "Players Per Team In Arena": 2,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "\ue019The Arena"
+    },
+    "type": "alliance_elimination.AllianceEliminationGame"
+   },
+   {
+    "settings": {
+     "Chosen One Gets Gloves": true,
+     "Chosen One Gets Shield": true,
+     "Chosen One Time": 20,
+     "Epic Mode": true,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "Monkey Face"
+    },
+    "type": "bastd.game.chosenone.ChosenOneGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Respawn Times": 0.25,
+     "Score to Win": 50,
+     "Time Limit": 0,
+     "map": "Bombmod1_1"
+    },
+    "type": "snake.SnakeGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Time Limit": 120,
+     "map": "Courtyard"
+    },
+    "type": "laser_tracer.LaserTracerGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Time Limit": 120,
+     "map": "Football Stadium"
+    },
+    "type": "laser_tracer.LaserTracerGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Time Limit": 240,
+     "map": "Monkey Face"
+    },
+    "type": "laser_tracer.LaserTracerGame"
+   },
+   {
+    "settings": {
+     "Difficulty": 0.04,
+     "Distractor Bones": 5,
+     "Enable Bananas": true,
+     "Epic Mode": true,
+     "Immortality": true,
+     "Mesh Color": 1,
+     "Respawn Times": 0.05,
+     "Score to Win": 3,
+     "Space Under the Mesh": true,
+     "Time Limit": 120,
+     "Timer": 3,
+     "Type of Hot Bomb": 0,
+     "map": "Football Stadium"
+    },
+    "type": "hot_bomb.HotBombGame"
+   },
+   {
+    "settings": {
+     "Enable Bottom Credits": true,
+     "Epic Mode": false,
+     "map": "Sky Tiles"
+    },
+    "type": "memory_game.MGgame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Random bombs spawn": false,
+     "map": "Football Stadium"
+    },
+    "type": "running_bombs.GameRunningBombs"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Random bombs spawn": true,
+     "map": "Football Stadium"
+    },
+    "type": "running_bombs.GameRunningBombs"
+   },
+   {
+    "settings": {
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 5,
+     "Time Limit": 0,
+     "map": "Football Stadium"
+    },
+    "type": "soccer.HockeyGame"
+   },
+   {
+    "settings": {
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Lives (0 = Unlimited)": 2,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "Mega Mine"
+    },
+    "type": "SuperSmashv2.SuperSmashElimination"
+   },
+   {
+    "settings": {
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Lives (0 = Unlimited)": 2,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "\ue019Island Mine"
+    },
+    "type": "SuperSmashv2.SuperSmashElimination"
+   },
+   {
+    "settings": {
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Lives (0 = Unlimited)": 2,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "Super TNT"
+    },
+    "type": "SuperSmashv2.SuperSmashElimination"
+   },
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": true,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 2,
+     "Time Limit": 0,
+     "map": "Open Field"
+    },
+    "type": "volleyball.VolleyBallGame"
+   },
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": true,
+     "Respawn Times": 0.25,
+     "Score to Win": 5,
+     "Time Limit": 0,
+     "map": "Closed Arena"
+    },
+    "type": "volleyball.VolleyBallGame"
+   },
+   {
+    "settings": {
+     "Balance Total Lives": false,
+     "Epic Mode": true,
+     "Lives Per Player": 2,
+     "Respawn Times": 0.5,
+     "map": "Rampage"
+    },
+    "type": "ultimate_last_stand.UltimateLastStand"
+   }
+  ],
+  "bsbox football": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 1.0,
+     "Score to Win": 10,
+     "Time Limit": 180,
+     "map": "BSBOX STADIUM"
+    },
+    "type": "FOOTBAL_BSBOX.HockeyGame"
+   }
+  ],
+  "bsbox football svr": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 0.5,
+     "Score to Win": 5,
+     "Time Limit": 180,
+     "map": "BSBOX STADIUM"
+    },
+    "type": "FOOTBALL_BSBOX.HockeyGame"
+   }
+  ],
+  "bsbox ufc svr": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "tMS": [
+   {
+    "settings": {
+     "Basic Bombs": true,
+     "Epic Mode": true,
+     "Grabbing only": true,
+     "Ice Bombs": true,
+     "Ice Trigger Bombs": true,
+     "Impulse Bombs": true,
+     "Punching only": true,
+     "Respawn Times": 0.25,
+     "Sticky Bombs": true,
+     "Time Limit": 60,
+     "Trigger Bombs": true,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.armsrace.ArmsRaceGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Extra Seconds for Assassination per Target Suicide/Betrayal": 1,
+     "Negative Points for Killing Others": 0,
+     "Points for Killing The Target": 2,
+     "Points for Surviving an Assassination": 3,
+     "Points to Win": 1,
+     "Respawn Times": 0.5,
+     "Seconds for Assassination": 20,
+     "Time Limit": 0,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.assassination.AssassinationGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "bascenev1lib.game.assault.AssaultGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Flag Idle Return Time": 30,
+     "Flag Touch Return Time": 0,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.capturetheflag.CaptureTheFlagGame"
+   },
+   {
+    "settings": {
+     "Chosen One Gets Gloves": true,
+     "Chosen One Gets Shield": false,
+     "Chosen One Time": 10,
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.chosenone.ChosenOneGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "Crag Castle"
+    },
+    "type": "bascenev1lib.game.conquest.ConquestGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Kills to Win Per Player": 1,
+     "Overtime": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Pro Mode": true,
+     "map": "Tower D"
+    },
+    "type": "bascenev1lib.game.easteregghunt.EasterEggHuntGame"
+   },
+   {
+    "settings": {
+     "Balance Total Lives": true,
+     "Epic Mode": true,
+     "Lives Per Player": 1,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Solo Mode": false,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "bascenev1lib.game.elimination.EliminationGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Respawn Times": 1.0,
+     "Score to Win": 7,
+     "Time Limit": 60,
+     "map": "Football Stadium"
+    },
+    "type": "bascenev1lib.game.football.FootballTeamGame"
+   },
+   {
+    "settings": {
+     "Chosen One Gets Gloves": false,
+     "Chosen One Gets Shield": true,
+     "Chosen One Time": 10,
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Time Limit": 60,
+     "map": "Rampage"
+    },
+    "type": "bascenev1lib.game.frozenone.FrozenOneGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Hockey Stadium"
+    },
+    "type": "bascenev1lib.game.hockey.HockeyGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "map": "Lake Frigid"
+    },
+    "type": "bascenev1lib.game.icyemits.IcyEmitsGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Hold Time": 10,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Time Limit": 0,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.keepaway.KeepAwayGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Hold Time": 10,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Time Limit": 60,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.kingofthehill.KingOfTheHillGame"
+   },
+   {
+    "settings": {
+     "Enable Bottom Credit": true,
+     "Enable Punching": false,
+     "Enable Running": true,
+     "Epic Mode": true,
+     "Max Round Time": 15,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.musicalflags.MusicalFlagsGame"
+   },
+   {
+    "settings": {
+     "Allow Grabbing": true,
+     "Balance Total Lives (Elimination Exclusive)": false,
+     "Boxing Gloves": true,
+     "Epic Mode": true,
+     "Game mode": 1,
+     "Lives or Kills to Win Per Player": 5,
+     "Overtime": false,
+     "Player Health": 500,
+     "Random Chance of Saviors on Impact": true,
+     "Respawn Times": 0.25,
+     "Solo Mode (Elimination Exclusive)": false,
+     "Time Limit": 60,
+     "map": "The Pad"
+    },
+    "type": "bascenev1lib.game.packapunch.PackAPunchGame"
+   },
+   {
+    "settings": {
+     "Enable Bomb": false,
+     "Enable Jump": false,
+     "Enable Pickup": false,
+     "Epic Mode": true,
+     "Fast Movespeed": true,
+     "Kills to Win Per Player": 1,
+     "Obstacle Count": 16,
+     "Obstacles": false,
+     "Obstacles Bounces Shots": false,
+     "Obstacles Shape": 1,
+     "Overtime": false,
+     "Random Obstacle Color": true,
+     "Respawn Times": 1.0,
+     "Time Limit": 60,
+     "map": "Doom Shroom"
+    },
+    "type": "bascenev1lib.game.quake.QuakeGame"
+   },
+   {
+    "settings": {
+     "Bomb Spawning": 2000,
+     "Entire Team Must Finish": false,
+     "Epic Mode": true,
+     "Laps": 1,
+     "Mine Spawning": 4000,
+     "Time Limit": 0,
+     "map": "Big G"
+    },
+    "type": "bascenev1lib.game.race.RaceGame"
+   },
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Random bombs spawn": true,
+     "map": "Football Stadium"
+    },
+    "type": "bascenev1lib.game.runningbombs.RunningBombsGame"
+   },
+   {
+    "settings": {
+     "Allow Bombs": false,
+     "Allow Powerups": false,
+     "Epic Mode": true,
+     "Overtime": false,
+     "Respawn Times": 1.0,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Soccer Stadium"
+    },
+    "type": "bascenev1lib.game.soccer.SoccerGame"
+   },
+   {
+    "settings": {
+     "Balance Total Lives (Elimination Exclusive)": false,
+     "Epic Mode": true,
+     "Game mode": 2,
+     "Lives or Kills to Win Per Player": 1,
+     "Overtime": false,
+     "Respawn Times": 0.25,
+     "Solo Mode (Elimination Exclusive)": false,
+     "Time Limit": 60,
+     "map": "Roundabout"
+    },
+    "type": "bascenev1lib.game.smash.SmashGame"
+   },
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": false,
+     "Enable Bottom Credits": false,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Respawn Times": 1.0,
+     "Score to Win": 1,
+     "Time Limit": 0,
+     "map": "Open Field"
+    },
+    "type": "bascenev1lib.game.volleyball.VolleyBallGame"
+   }
+  ],
+  "ufc bsbox": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "ufc bsbox 0": [
+   {
+    "settings": {
+     "Epic Mode": false,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 60,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "ufc svr": [
+   {
+    "settings": {
+     "Epic Mode": true,
+     "Kills to Win Per Player": 30,
+     "Respawn Times": 0.5,
+     "Time Limit": 300,
+     "map": "UFC_BSBOX"
+    },
+    "type": "bascenev1lib.game.deathmatch.DeathMatchGame"
+   }
+  ],
+  "volleyball_svr": [
+   {
+    "settings": {
+     "Disable Bombs": false,
+     "Disable Punch": false,
+     "Enable Bottom Credits": true,
+     "Epic Mode": true,
+     "Icy Floor": true,
+     "Night Mode": false,
+     "Respawn Times": 0.25,
+     "Score to Win": 5,
+     "Time Limit": 300,
+     "map": "Closed Arena"
+    },
+    "type": "VolleyBall (1).VolleyBallGame"
+   }
+  ]
+ },
+ "Third-Party Modifier": true,
+ "Unbalanced Modifier": true,
+ "Under-The-Sakura Theme": false,
+ "Untested Modifier": true,
+ "Vanillaclocked": true,
+ "Vulnerable Modifier": true,
+ "launchCount": 1728,
+ "lc14173": 1,
+ "lc14292": 1,
+ "wintermode_author": "vladdos",
+ "wintermode_launch_count": 67,
+ "wintermode_version": "1.0"
+}
