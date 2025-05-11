@@ -1,1 +1,1 @@
-# 📦 BSBOX - Bombsquad Server
+# 📦 BSBOX - Bombsquad Game Server
